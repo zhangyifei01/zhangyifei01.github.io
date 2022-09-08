@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
 
 
-Personal
-======
 I'm currently a PhD student with the Institute of [Information Engineering (IIE), Chinese Academy of Sciences (CAS)](https://www.iie.ac.cn/), supervised by [Prof. Yu Zhou](https://people.ucas.ac.cn/~yuzhou). My research interest lies in *Computer Vision*, especially in *Unsupervised / Self-supervised Learning*.
+
+
+Publications
+======
+Updating......
 
 
 For more info
