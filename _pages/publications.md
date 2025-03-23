@@ -43,7 +43,7 @@ In <i>IEEE Transactions on Multimedia (<strong>TMM</strong>)</i>, 2024, 26:4628-
 				<span style="font-family: arial, helvetica, sans-serif;">
 Hongyu Li, <strong>Yifei Zhang</strong>, Dongbao Yang. 
 <a href="https://www.c-s-a.org.cn/csa/article/abstract/9362?st=search" target="_blank"> Self-supervised Learning Based on Multi-modal Arbitrary Rotation for RGB-D Semantic Segmentation </a>. 
-In <i>Computer Systems & Applications</i>, 2024, 33(1):219-230. </span> 
+In <i>Computer Systems & Applications</i>, 2024, 33(1):219-230. (<strong>CCF-C</strong>) </span> 
 			</li>
    	
 		</ol>
