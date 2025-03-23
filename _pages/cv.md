@@ -17,15 +17,21 @@ Education
 
 Honors and Awards
 ======
-* 
+* CVPR Parametric SkelNetOn, First Place
+* CVPR Point SkelNetOn, Second Place
+* MCM/ICM, Meritorious Winner
+* Certificate Authority Cup International Mathematical Contest in Modeling, Meritorious Winner
+
+  
 * Merit Student, Excellent League Member, Excellent Student Cadre. UCAS
 * Merit Student, Excellent League Member, Excellent Student Cadre, Outstanding Graduates. HZAU
 * National Encouragement Scholarship. HZAU
   
 Skills
 ======
-* Python, C/C++
-* Pytorch
+* English: CET-6, National Mandarin Test: 2A
+* Python, C/C++, Matlab
+* Pytorch, TensorFlow
   
   
 Service
