@@ -13,7 +13,11 @@ Education
 ======
 * Sep. 2014--Jul. 2018, <strong>B.S.</strong>, Huazhong Agricultural University 
 * Sep. 2018--Jul. 2021, <strong>M.S.</strong>, University of Chinese Academy of Sciences  
-* Sep. 2021--Dec. 2025, <strong>Ph.D</strong>, University of Chinese Academy of Sciences 
+* Sep. 2021--Dec. 2025, <strong>Ph.D</strong>, University of Chinese Academy of Sciences
+
+Publications
+======
+* Yifei Zhang
 
 Honors and Awards
 ======
