@@ -18,7 +18,7 @@ author_profile: true
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 <strong>Yifei Zhang</strong>, Chang Liu, Jin Wei, Xiaomeng Yang, Yu Zhou, Can Ma, Xiangyang Ji. 
-Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition. 
+<a href="https://zhangyifei01.github.io//publications/" target="_blank"> Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition </a>. 
 In <i>Proceedings of the IEEE/CVF Conferences on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</i>, 2025. (<strong>CCF-A</strong>)</span> 
 			</li>
    	
