@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in College of Informatics, HuaZhong Agricultural University, 2014.9--2018.7
-* M.S. in Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS) & School of Cyber Security, University of Chinese Academy of Sciences (UCAS), 2018.9--2021.7
-* Ph.D in Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS) & School of Cyber Security, University of Chinese Academy of Sciences (UCAS), 2021.7--2025.12
+* B.S. in College of Informatics, HuaZhong Agricultural University (HZAU), 2014.9--2018.7
+* M.S. in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) & School of Cyber Security, University of Chinese Academy of Sciences (UCAS), 2018.9--2021.7
+* Ph.D in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) & School of Cyber Security, University of Chinese Academy of Sciences (UCAS), 2021.7--2025.12
 .12
   
 Skills
