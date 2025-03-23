@@ -42,7 +42,7 @@ In <i>IEEE Transactions on Multimedia (<strong>TMM</strong>)</i>, 2024, 26:4628-
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 Hongyu Li，<strong>Yifei Zhang</strong>, Dongbao Yang. 
-Self-supervised Learning Based on Multi-modal Arbitrary Rotation for RGB-D Semantic Segmentation. 
+<a href="https://www.c-s-a.org.cn/csa/article/abstract/9362?st=search" target="_blank"> Self-supervised Learning Based on Multi-modal Arbitrary Rotation for RGB-D Semantic Segmentation </a>. 
 In <i>Computer Systems & Applications</i>, 2024, 33(1):219-230. </span> 
 			</li>
    	
@@ -57,7 +57,7 @@ In <i>Computer Systems & Applications</i>, 2024, 33(1):219-230. </span>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 Hongyu Li, <strong>Yifei Zhang</strong>, Dongbao Yang. 
-Cross-architecture Relational Consistency for Point Cloud Self-supervised Learning. 
+<a href="https://ieeexplore.ieee.org/document/10356449" target="_blank"> Cross-architecture Relational Consistency for Point Cloud Self-supervised Learning </a>. 
 In <i>IEEE International Conference on Tools with Artificial Intelligence (<strong>ICTAI</strong>)</i>, 2023: 661-668. (<strong>CCF-C</strong>)</span> 
 			</li>
    	
@@ -66,7 +66,7 @@ In <i>IEEE International Conference on Tools with Artificial Intelligence (<stro
                         <li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 Xurui Sun, Jiahao Lyu, <strong>Yifei Zhang</strong>, Gangyan Zeng, Bo Fang, Yu Zhou, Enze Xie, Can Ma. 
-Feature Enhancement with Text-specific Region Contrast for Scene Text Detection. 
+<a href="https://link.springer.com/chapter/10.1007/978-981-99-8540-1_1" target="_blank"> Feature Enhancement with Text-specific Region Contrast for Scene Text Detection </a>. 
 In <i>Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV</strong>)</i>, 2023: 3-14. (<strong>CCF-C, Oral presentation</strong>)</span> 
 			</li>
    	
@@ -81,7 +81,7 @@ In <i>Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRC
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 Xiaoni Li, Yu Zhou, <strong>Yifei Zhang</strong>, Aoting Zhang, Wei Wang, Ning Jiang, Haiying Wu, Weiping Wang. 
-Dense Semantic Contrast for Self-supervised Visual Representation Learning. 
+<a href="https://dl.acm.org/doi/10.1145/3474085.3475551" target="_blank"> Dense Semantic Contrast for Self-supervised Visual Representation Learning </a>. 
 In <i>Proceedings of the ACM International Conference on Multimedia (<strong>MM</strong>)</i>, 2021: 1368-1376. (<strong>CCF-A, Oral presentation</strong>)</span> 
 			</li>
    	
@@ -96,7 +96,7 @@ In <i>Proceedings of the ACM International Conference on Multimedia (<strong>MM<
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 <strong>Yifei Zhang</strong>, Chang Liu, Yu Zhou, Wei Wang, Weiping Wang, Qixiang Ye. 
-Progressive Cluster Purification for Unsupervised Feature Learning. 
+<a href="https://ieeexplore.ieee.org/document/9412301?denied=" target="_blank"> Progressive Cluster Purification for Unsupervised Feature Learning </a>. 
 In <i>IEEE International Conference on Pattern Recognition (<strong>ICPR</strong>)</i>, 2020: 8476-8483. (<strong>CCF-C</strong>)</span> 
 			</li>
    	
@@ -111,7 +111,7 @@ In <i>IEEE International Conference on Pattern Recognition (<strong>ICPR</strong
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 Nan Jiang, <strong>Yifei Zhang</strong>, Dezhao Luo, Chang Liu, Yu Zhou, Zhenjun Han. 
-Feature Hourglass Network for Skeleton Detection. 
+<a href="https://ieeexplore.ieee.org/document/9025482" target="_blank"> Feature Hourglass Network for Skeleton Detection </a>. 
 In <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<strong>CVPRW</strong>)</i>, 2019: 0-0. </span> 
 			</li>
    	
@@ -119,7 +119,7 @@ In <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Reco
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 Chang Liu, Dezhao Luo, <strong>Yifei Zhang</strong>, Wei Ke, Fang Wan, Qixaing Ye. 
-Parametric Skeleton Generation via Gaussian Mixture Models. 
+<a href="https://ieeexplore.ieee.org/document/9025510" target="_blank"> Parametric Skeleton Generation via Gaussian Mixture Models </a>. 
 In <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<strong>CVPRW, Oral presentation</strong>)</i>, 2019: 0-0. </span> 
 			</li>
    	
