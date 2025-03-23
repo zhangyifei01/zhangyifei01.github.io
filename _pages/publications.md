@@ -34,7 +34,28 @@ In <i>Proceedings of the IEEE/CVF Conferences on Computer Vision and Pattern Rec
 				<span style="font-family: arial, helvetica, sans-serif;">
 <strong>Yifei Zhang</strong>, Chang Liu, Yu Zhou, Qixiang Ye, Xiangyang Ji. 
 Beyond Instance Discrimination: Relation-aware Contrastive Self-supervised Learning. 
-In <i>IEEE Transactions on Multimedia (<strong>TMM</strong>)</i>, 2024. (<strong>CCF-B</strong>, JCR Q1)</span> 
+In <i>IEEE Transactions on Multimedia (<strong>TMM</strong>)</i>, 2024, 26:4628-4640. (<strong>CCF-B, JCR Q1</strong>)</span> 
+			</li>
+   	
+		</ol>
+                <p style="text-wrap: wrap;">
+			<span style="font-family: arial, helvetica, sans-serif;">
+				<strong><span style="font-size:15px">2023</span></strong>
+			</span>
+		</p>
+		<ol style="text-wrap: wrap;">
+
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;">
+Hongyu Li, <strong>Yifei Zhang</strong>, Dongbao Yang. 
+Cross-architecture Relational Consistency for Point Cloud Self-supervised Learning. 
+In <i>IEEE International Conference on Tools with Artificial Intelligence (<strong>ICTAI</strong>)</i>, 2023: 661-668. (<strong>CCF-C</strong>)</span> 
+			</li>
+                        <li>
+				<span style="font-family: arial, helvetica, sans-serif;">
+Xurui Sun, Jiahao Lyu, <strong>Yifei Zhang</strong>, Dongbao Yang. 
+Cross-architecture Relational Consistency for Point Cloud Self-supervised Learning. 
+In <i>IEEE International Conference on Tools with Artificial Intelligence (<strong>ICTAI</strong>)</i>, 2023: 661-668. (<strong>CCF-C</strong>)</span> 
 			</li>
    	
 		</ol>
