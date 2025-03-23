@@ -84,6 +84,8 @@ Xiaoni Li, Yu Zhou, <strong>Yifei Zhang</strong>, Aoting Zhang, Wei Wang, Ning J
 <a href="https://dl.acm.org/doi/10.1145/3474085.3475551" target="_blank"> Dense Semantic Contrast for Self-supervised Visual Representation Learning </a>. 
 In <i>Proceedings of the ACM International Conference on Multimedia (<strong>MM</strong>)</i>, 2021: 1368-1376. (<strong>CCF-A, Oral presentation</strong>)</span> 
 			</li>
+
+   
                         <li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 <strong>Yifei Zhang</strong>, Yu Zhou, Weiping Wang. 
