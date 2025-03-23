@@ -32,9 +32,9 @@ In <i>Proceedings of the IEEE/CVF Conferences on Computer Vision and Pattern Rec
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
-<strong>Yifei Zhang</strong>, Chang Liu, Jin Wei, Xiaomeng Yang, Yu Zhou, Can Ma, Xiangyang Ji. 
-Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition. 
-In <i>Proceedings of the IEEE/CVF Conferences on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</i>, 2025. (<strong>CCF-A</strong>)</span> 
+<strong>Yifei Zhang</strong>, Chang Liu, Yu Zhou, Qixiang Ye, Xiangyang Ji. 
+Beyond Instance Discrimination: Relation-aware Contrastive Self-supervised Learning. 
+In <i>IEEE Transactions on Multimedia (<strong>TMM</strong>)</i>, 2024. (<strong>CCF-B</strong>, 中科院SCI一区Top)</span> 
 			</li>
    	
 		</ol>
