@@ -17,7 +17,7 @@ author_profile: true
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
-Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
+<strong>Yifei Zhang</strong>, Chang Liu, Jin Wei, Xiaomeng Yang, Yu Zhou, Can Ma, Xiangyang Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>)</span> 
 			</li>
    	
 		</ol>
