@@ -57,9 +57,24 @@ In <i>IEEE International Conference on Tools with Artificial Intelligence (<stro
 
                         <li>
 				<span style="font-family: arial, helvetica, sans-serif;">
-Xurui Sun, Jiahao Lyu, <strong>Yifei Zhang</strong>, Dongbao Yang. 
-Cross-architecture Relational Consistency for Point Cloud Self-supervised Learning. 
-In <i>IEEE International Conference on Tools with Artificial Intelligence (<strong>ICTAI</strong>)</i>, 2023: 661-668. (<strong>CCF-C</strong>)</span> 
+Xurui Sun, Jiahao Lyu, <strong>Yifei Zhang</strong>, Gangyan Zeng, Bo Fang, Yu Zhou, Enze Xie, Can Ma. 
+Feature Enhancement with Text-specific Region Contrast for Scene Text Detection. 
+In <i>Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV</strong>)</i>, 2023: 3-14. (<strong>CCF-C</strong>)</span> 
+			</li>
+   	
+		</ol>
+                <p style="text-wrap: wrap;">
+			<span style="font-family: arial, helvetica, sans-serif;">
+				<strong><span style="font-size:15px">2021</span></strong>
+			</span>
+		</p>
+		<ol style="text-wrap: wrap;">
+
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;">
+Xiaoni Li, Yu Zhou, <strong>Yifei Zhang</strong>, Aoting Zhang, Wei Wang, Ning Jiang, Haiying Wu, Weiping Wang. 
+Dense Semantic Contrast for Self-supervised Visual Representation Learning. 
+In <i>Proceedings of the ACM International Conference on Multimedia (<strong>MM</strong>)</i>, 2021: 1368-1376. (<strong>CCF-A, Oral</strong>)</span> 
 			</li>
    	
 		</ol>
