@@ -15,6 +15,7 @@ I'm currently a PhD student with the [Institute of Information Engineering, Chin
 
 <div class="news">
     <strong>News: </strong><br><br>
-    <em>February 27, 2025. One paper is accepted by <strong style="">CVPR !</strong>  </em><br><br>
-    <em> October 1, 2023. One paper is accepted by <strong style="">TMM !</strong>  </em><br><br>
-    <em> August 21, 2023. One paper is accepted by <strong style="">PRCV !</strong>  </em><br><br>
+    <em>February 27, 2025. One paper is accepted by CVPR ! </em><br><br>
+    <em> October 1, 2023. One paper is accepted by TMM !  </em><br><br>
+    <em> September 4, 2023. One paper is accepted by ICTAI !  </em><br><br>
+    <em> August 21, 2023. One paper is accepted by PRCV !  </em><br><br>
