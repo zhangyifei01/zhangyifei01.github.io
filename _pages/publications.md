@@ -41,7 +41,7 @@ In <i>IEEE Transactions on Multimedia (<strong>TMM</strong>)</i>, 2024, 26:4628-
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
-Hongyu Li，<strong>Yifei Zhang</strong>, Dongbao Yang. 
+Hongyu Li, <strong>Yifei Zhang</strong>, Dongbao Yang. 
 <a href="https://www.c-s-a.org.cn/csa/article/abstract/9362?st=search" target="_blank"> Self-supervised Learning Based on Multi-modal Arbitrary Rotation for RGB-D Semantic Segmentation </a>. 
 In <i>Computer Systems & Applications</i>, 2024, 33(1):219-230. </span> 
 			</li>
@@ -90,7 +90,7 @@ In <i>Proceedings of the ACM International Conference on Multimedia (<strong>MM<
 				<span style="font-family: arial, helvetica, sans-serif;">
 <strong>Yifei Zhang</strong>, Yu Zhou, Weiping Wang. 
 <a href="https://arxiv.org/abs/2105.03341" target="_blank"> Exploring Instance Relations for Unsupervised Feature Embedding </a>. 
-In <i>	arXiv:2105.03341 </i>, 2021.</span> 
+In <i>arXiv:2105.03341</i>, 2021.</span> 
 			</li>
    	
 		</ol>
