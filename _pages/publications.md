@@ -51,6 +51,10 @@ Hongyu Li, <strong>Yifei Zhang</strong>, Dongbao Yang.
 Cross-architecture Relational Consistency for Point Cloud Self-supervised Learning. 
 In <i>IEEE International Conference on Tools with Artificial Intelligence (<strong>ICTAI</strong>)</i>, 2023: 661-668. (<strong>CCF-C</strong>)</span> 
 			</li>
+   	
+		</ol>
+                <ol style="text-wrap: wrap;">
+
                         <li>
 				<span style="font-family: arial, helvetica, sans-serif;">
 Xurui Sun, Jiahao Lyu, <strong>Yifei Zhang</strong>, Dongbao Yang. 
