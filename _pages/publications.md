@@ -37,8 +37,7 @@ Beyond Instance Discrimination: Relation-aware Contrastive Self-supervised Learn
 In <i>IEEE Transactions on Multimedia (<strong>TMM</strong>)</i>, 2024, 26:4628-4640. (<strong>CCF-B, JCR Q1</strong>)</span> 
 			</li>
    	
-		</ol>
-                <ol style="text-wrap: wrap;">
+		
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
@@ -62,8 +61,7 @@ Cross-architecture Relational Consistency for Point Cloud Self-supervised Learni
 In <i>IEEE International Conference on Tools with Artificial Intelligence (<strong>ICTAI</strong>)</i>, 2023: 661-668. (<strong>CCF-C</strong>)</span> 
 			</li>
    	
-		</ol>
-                <ol style="text-wrap: wrap;">
+		
 
                         <li>
 				<span style="font-family: arial, helvetica, sans-serif;">
@@ -117,8 +115,6 @@ Feature Hourglass Network for Skeleton Detection.
 In <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<strong>CVPRW</strong>)</i>, 2019: 0-0. </span> 
 			</li>
    	
-		</ol>
-                <ol style="text-wrap: wrap;">
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
