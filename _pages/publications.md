@@ -84,6 +84,12 @@ Xiaoni Li, Yu Zhou, <strong>Yifei Zhang</strong>, Aoting Zhang, Wei Wang, Ning J
 <a href="https://dl.acm.org/doi/10.1145/3474085.3475551" target="_blank"> Dense Semantic Contrast for Self-supervised Visual Representation Learning </a>. 
 In <i>Proceedings of the ACM International Conference on Multimedia (<strong>MM</strong>)</i>, 2021: 1368-1376. (<strong>CCF-A, Oral presentation</strong>)</span> 
 			</li>
+                        <li>
+				<span style="font-family: arial, helvetica, sans-serif;">
+<strong>Yifei Zhang</strong>, Yu Zhou, Weiping Wang. 
+<a href="https://arxiv.org/abs/2105.03341" target="_blank"> Exploring Instance Relations for Unsupervised Feature Embedding </a>. 
+In <i>	arXiv:2105.03341 </i>, 2021.</span> 
+			</li>
    	
 		</ol>
                 <p style="text-wrap: wrap;">
