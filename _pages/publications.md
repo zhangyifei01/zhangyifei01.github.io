@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+.divcss5_italic{ font-style:italic}
 
 <div class="mi-box">
 	<div class="mib-c ">
@@ -17,9 +18,9 @@ author_profile: true
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
-<strong>Yifei Zhang</strong>, Chang Liu, Jin Wei, Xiaomeng Yang, Yu Zhou, Can Ma, Xiangyang Ji. <br>
-Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition. <br>
-<strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>)</span> 
+<strong>Yifei Zhang</strong>, Chang Liu, Jin Wei, Xiaomeng Yang, Yu Zhou, Can Ma, Xiangyang Ji. 
+Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition. 
+In <div class="divcss5_italic">Proceedings of the IEEE/CVF Conferences on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) </ div>, 2025. (<strong>CCF-A</strong>)</span> 
 			</li>
    	
 		</ol>
