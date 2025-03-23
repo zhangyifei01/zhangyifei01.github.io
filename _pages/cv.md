@@ -11,10 +11,16 @@ redirect_from:
 
 Education
 ======
-* <strong>B.S.</strong> in College of Informatics, HuaZhong Agricultural University (HZAU), 2014.9--2018.7
-* <strong>M.S.</strong> in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) & School of Cyber Security, University of Chinese Academy of Sciences (UCAS), 2018.9--2021.7
-* <strong>Ph.D</strong> in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) & School of Cyber Security, University of Chinese Academy of Sciences (UCAS), 2021.7--2025.12
-.12
+* Sep. 2014--Jul. 2018, <strong>B.S.</strong>, HuaZhong Agricultural University (<strong>HZAU</strong>)
+* Sep. 2018--Jul. 2021, <strong>M.S.</strong>, Institute of Information Engineering, Chinese Academy of Sciences (<strong>IIE, CAS</strong>) & University of Chinese Academy of Sciences (<strong>UCAS</strong>) 
+* Sep. 2021--Dec. 2025, <strong>Ph.D</strong>, Institute of Information Engineering, Chinese Academy of Sciences (<strong>IIE, CAS</strong>) & University of Chinese Academy of Sciences (<strong>UCAS</strong>)
+
+Honors and Awards
+======
+* 
+* Merit Student, Excellent League Member, Excellent Student Cadre. UCAS
+* Merit Student, Excellent League Member, Excellent Student Cadre, Outstanding Graduates. HZAU
+* National Encouragement Scholarship. HZAU
   
 Skills
 ======
@@ -22,7 +28,7 @@ Skills
 * Pytorch
   
   
-Service and leadership
+Service
 ======
 * <strong>Reviewer:</strong> CVPR, ICCV, TMM, TCSVT, ICME, ICASSP
 * <strong>Student Member:</strong>  China Society of Image and Graphics (CSIG), The Computer Vision Foundation (CVF)
