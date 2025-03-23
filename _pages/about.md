@@ -15,4 +15,4 @@ I'm currently a PhD student with the [Institute of Information Engineering (IIE)
 
 <div class="news">
     <strong>News: </strong><br><br>
-    <em>27 Feb, 2025, One paper is accepted by <strong style="">CVPR 2025</strong></em><br><br>
+    <em>February 27, 2025. One paper is accepted by <strong style="">CVPR 2025</strong> ! </em><br><br>
