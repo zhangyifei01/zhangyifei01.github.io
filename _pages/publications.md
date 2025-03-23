@@ -5,12 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<div class="mi-box">
+	<div class="mib-c ">
+		
+		<p style="text-wrap: wrap;">
+			<span style="font-family: arial, helvetica, sans-serif;">
+				<strong><span style="font-size:15px">2025</span></strong>
+			</span>
+		</p>
+		<ol style="text-wrap: wrap;">
 
-{% include base_path %}
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;">
+Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
+			</li>
+   	
+		</ol>
+		<div style="text-wrap: wrap;">
+			<span style="font-family: arial, helvetica, sans-serif;">
+				<strong style="">
+					
+				</strong>
+			</span>
+		</div>
+	</div>
+</div>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
