@@ -18,7 +18,7 @@ Education
 Publications
 ======
 * **Yifei Zhang**, Chang Liu, Jin Wei, Xiaomeng Yang, Yu Zhou, Can Ma, Xiangyang Ji. Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition. In Proceedings of the IEEE/CVF Conferences on Computer Vision and Pattern Recognition (CVPR), 2025. (CCF-A)
-* **Yifei Zhang**, Chang Liu, Yu Zhou, Qixiang Ye, Xiangyang Ji. Beyond Instance Discrimination: Relation-aware Contrastive Self-supervised Learning. In IEEE Transactions on Multimedia (TMM), 2024, 26:4628-4640. (CCF-B, JCR Q1)
+* **Yifei Zhang**, Chang Liu, Yu Zhou, Weiping Wang, Qixiang Ye, Xiangyang Ji. Beyond Instance Discrimination: Relation-aware Contrastive Self-supervised Learning. In IEEE Transactions on Multimedia (TMM), 2024, 26:4628-4640. (CCF-B, JCR Q1)
 * **Yifei Zhang**, Chang Liu, Yu Zhou, Wei Wang, Weiping Wang, Qixiang Ye. Progressive Cluster Purification for Unsupervised Feature Learning. In IEEE International Conference on Pattern Recognition (ICPR), 2020: 8476-8483. (CCF-C)
 * Xiaoni Li, Yu Zhou, **Yifei Zhang**, Aoting Zhang, Wei Wang, Ning Jiang, Haiying Wu, Weiping Wang. Dense Semantic Contrast for Self-supervised Visual Representation Learning. In Proceedings of the ACM International Conference on Multimedia (MM), 2021: 1368-1376. (CCF-A, Oral presentation)
 * Hongyu Li, **Yifei Zhang**, Dongbao Yang. Cross-architecture Relational Consistency for Point Cloud Self-supervised Learning. In IEEE International Conference on Tools with Artificial Intelligence (ICTAI), 2023: 661-668. (CCF-C)
