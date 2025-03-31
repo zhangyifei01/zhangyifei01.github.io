@@ -8,11 +8,7 @@ author_profile: true
 <div class="mi-box">
 	<div class="mib-c ">
 		
-		<p style="text-wrap: wrap;">
-			<span style="font-family: arial, helvetica, sans-serif;">
-				<strong><span style="font-size:15px">2025</span></strong>
-			</span>
-		</p>
+		
 		<ol style="text-wrap: wrap;">
 
 			<li>
@@ -22,13 +18,7 @@ author_profile: true
 In <i>Proceedings of the IEEE/CVF Conferences on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</i>, 2025. (<strong>CCF-A</strong>)</span> 
 			</li>
    	
-		</ol>
-                <p style="text-wrap: wrap;">
-			<span style="font-family: arial, helvetica, sans-serif;">
-				<strong><span style="font-size:15px">2024</span></strong>
-			</span>
-		</p>
-		<ol style="text-wrap: wrap;">
+		
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
@@ -46,13 +36,7 @@ Hongyu Li, <strong>Yifei Zhang</strong>, Dongbao Yang.
 In <i>Computer Systems & Applications</i>, 2024, 33(1):219-230. (<strong>CCF-C</strong>) </span> 
 			</li>
    	
-		</ol>
-                <p style="text-wrap: wrap;">
-			<span style="font-family: arial, helvetica, sans-serif;">
-				<strong><span style="font-size:15px">2023</span></strong>
-			</span>
-		</p>
-		<ol style="text-wrap: wrap;">
+		
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
@@ -70,13 +54,7 @@ Xurui Sun, Jiahao Lyu, <strong>Yifei Zhang</strong>, Gangyan Zeng, Bo Fang, Yu Z
 In <i>Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV</strong>)</i>, 2023: 3-14. (<strong>CCF-C, Oral presentation</strong>)</span> 
 			</li>
    	
-		</ol>
-                <p style="text-wrap: wrap;">
-			<span style="font-family: arial, helvetica, sans-serif;">
-				<strong><span style="font-size:15px">2021</span></strong>
-			</span>
-		</p>
-		<ol style="text-wrap: wrap;">
+		
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
@@ -93,13 +71,7 @@ In <i>Proceedings of the ACM International Conference on Multimedia (<strong>MM<
 In <i>arXiv:2105.03341</i>, 2021.</span> 
 			</li>
    	
-		</ol>
-                <p style="text-wrap: wrap;">
-			<span style="font-family: arial, helvetica, sans-serif;">
-				<strong><span style="font-size:15px">2020</span></strong>
-			</span>
-		</p>
-		<ol style="text-wrap: wrap;">
+		
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
@@ -108,13 +80,6 @@ In <i>arXiv:2105.03341</i>, 2021.</span>
 In <i>IEEE International Conference on Pattern Recognition (<strong>ICPR</strong>)</i>, 2020: 8476-8483. (<strong>CCF-C</strong>)</span> 
 			</li>
    	
-		</ol>
-                <p style="text-wrap: wrap;">
-			<span style="font-family: arial, helvetica, sans-serif;">
-				<strong><span style="font-size:15px">2019</span></strong>
-			</span>
-		</p>
-		<ol style="text-wrap: wrap;">
 
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;">
