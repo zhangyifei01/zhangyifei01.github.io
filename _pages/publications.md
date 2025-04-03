@@ -24,7 +24,7 @@ In <i>Proceedings of the IEEE/CVF Conferences on Computer Vision and Pattern Rec
 				<span style="font-family: arial, helvetica, sans-serif;">
 <strong>Yifei Zhang</strong>, Chang Liu, Yu Zhou, Weiping Wang, Qixiang Ye, Xiangyang Ji. 
 <a href="https://ieeexplore.ieee.org/document/10285026" target="_blank"> Beyond Instance Discrimination: Relation-aware Contrastive Self-supervised Learning </a>. 
-In <i>IEEE Transactions on Multimedia (<strong>TMM</strong>)</i>, 2024, 26:4628-4640. (<strong>CCF-B, SCI Q1</strong>)</span> 
+In <i>IEEE Transactions on Multimedia (<strong>TMM</strong>)</i>, 2024, 26:4628-4640. (<strong>CCF-B, SCI Q1, IF 8.4</strong>)</span> 
 			</li>
    	
 		
