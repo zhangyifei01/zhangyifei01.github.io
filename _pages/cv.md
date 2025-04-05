@@ -13,7 +13,7 @@ Education
 ======
 * Sep. 2014--Jul. 2018, Bachelor of Engineering, <strong>Huazhong Agricultural University</strong> 
 * Sep. 2018--Jul. 2021, Master of Engineering, <strong>University of Chinese Academy of Sciences</strong>  
-* Sep. 2021--Dec. 2025, Ph.D Candidate, <strong>University of Chinese Academy of Sciences</strong>
+* Sep. 2021--Present, Ph.D Candidate, <strong>University of Chinese Academy of Sciences</strong>
 
 Publications
 ======
